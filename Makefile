@@ -24,4 +24,4 @@ clean:
 fclean: clean
 	@rm -rf $(NAME_M)
 
-re : fclean all
+re : fclean all.
